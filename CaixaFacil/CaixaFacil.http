@@ -1,0 +1,6 @@
+@CaixaFacil_HostAddress = http://localhost:5209
+
+GET {{CaixaFacil_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
