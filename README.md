@@ -1,4 +1,4 @@
-# Sobre
+# Sobre o projeto
 
 Microserviço desenvolvido em .NET para automatizar o empacotamento de pedidos de uma loja de jogos, utilizando caixas pré-definidas e otimizando o uso do espaço.
 
