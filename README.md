@@ -48,4 +48,4 @@ Execute o comando abaixo para construir e iniciar a aplicação com o banco de d
 docker-compose up --build
 ```
 - A API estará disponível em: http://localhost:5000
-- A documentação Swagger estará em: http://localhost:5000/swagger
+- A documentação Swagger estará em: http://localhost:5000/swagger/index.html
